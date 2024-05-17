@@ -1,1 +1,4 @@
-# trajectory_test_task
+# Trajectory test task
+CRUD тестовое с деревцем. 
+
+В файле есть код из примера с ассертами. 
